@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/imac-tower-defense.dir/src/enemy.cpp.o CMakeFiles/imac-tower-defense.dir/src/main.cpp.o CMakeFiles/imac-tower-defense.dir/src/map.cpp.o CMakeFiles/imac-tower-defense.dir/src/texture.cpp.o CMakeFiles/imac-tower-defense.dir/src/tower.cpp.o  -o bin/imac-tower-defense -rdynamic -lGLU -lGL -L/usr/lib/x86_64-linux-gnu  -lSDL2 libSTB_IMAGE.a libGLAD.a -ldl 
